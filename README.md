@@ -34,6 +34,8 @@ Link to prototype: https://www.figma.com/design/FYKR88jFAxEYiQTU8FFnuP/Untitled?
 4. Click **Save** to return to the list.
 5. Open a task to see its details and the **Mark as done** button.
 6. Open **Settings** to choose the reminder time.
+7. Only opens Database report
+   
 
 *Note:* This is a clickable prototype, not a working application. Syncing and real notifications are planned features only.
 
