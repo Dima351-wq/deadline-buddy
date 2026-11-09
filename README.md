@@ -25,7 +25,7 @@ Deadline Buddy is a mobile application that helps university students manage ass
 *Reason for the choice:* Flutter is suitable for beginners and allows us to build a simple cross-platform app.
 
 ## Prototype
-Link to prototype: [(https://www.figma.com/design/FYKR88jFAxEYiQTU8FFnuP/Untitled?node-id=9-5&t=abTEyOHHuKEepUuO-1)]
+Link to prototype: https://www.figma.com/design/FYKR88jFAxEYiQTU8FFnuP/Untitled?node-id=0-1&t=2i1HD2NVx8eX5E7i-1
 
 ## How to Explore the Prototype
 1. Open the prototype link.
